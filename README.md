@@ -1,15 +1,26 @@
-- 👋 Hi, I’m @APG
-- 👀 I’m interested to help you...
-- 🌱 I’m currently working in APG PRODUCTS & TECHNOLOGY INFORMATION ...
-- desigenation :Virtual Assistant ,Crypto Consultant
-- 💞️ I’m looking to collaborate on ... Python open Source Developments
-- 📫 How to reach me ...
--
-- TELEGRAM:
-- https://t.me/apgproducts_001
-- DISCORD: @APG139
+👋 Hi, I’m Aravind Govindhasamy...
 
-<!---
-SGNCC06/SGNCC06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested to help you...
+
+🌱 I’m currently working in 2CQR Automation Private Limited ...
+
+desigenation :C# Developer, Virtual Assistant ,Crypto Consultant
+
+💞️ I’m looking to collaborate on ... Python open Source Developments
+
+📫 How to reach me ...
+
+TELEGRAM:
+https://t.me/aravindapg
+
+Twitter :
+@AravindGovindh6
+
+DISCORD:
+ @APG139
+
+Thank You for Visiting My Profile!!!
+
+
+“Two things are infinite: The universe and human stupidity.” 
+— Albert Einstein
